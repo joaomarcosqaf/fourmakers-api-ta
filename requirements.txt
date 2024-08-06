@@ -1,0 +1,17 @@
+robotframework
+
+robotframework-faker
+
+robotframework-tidy
+
+robotframework-robocop
+
+robotframework-pabot
+
+robotframework-requests
+
+robotframework-jsonlibrary
+
+robotframework-csvlibrary
+
+rpaframework
